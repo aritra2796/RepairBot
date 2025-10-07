@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aritra!
 
-I'm a student passionate about building intelligent, user-friendly software — especially with Python, AI, and interactive GUIs. I thrive on solving real-world problems through code and love iterating fast to make things better.
+I'm an aspiring software developer passionate about building intelligent, user-friendly software — especially with Python, AI, and interactive GUIs. I thrive on solving real-world problems through code and love iterating fast to make things better.
 
 ## 🚀 What I'm Working On
 
