@@ -22,3 +22,8 @@ I'm an aspiring software developer passionate about building intelligent, user-f
 - Exploring large language models and their practical applications
 - Improving UX through thoughtful design and feedback loops
 
+## 📫 Let's Connect
+
+I'm open to freelance, internship, and full-time opportunities. Feel free to check out my repositories, open issues, or reach out via [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/aritra-roy-181275152/) or aritra2796@gmail.com.
+
+---
