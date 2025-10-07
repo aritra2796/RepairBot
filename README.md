@@ -4,7 +4,7 @@ I'm an aspiring software developer passionate about building intelligent, user-f
 
 ## 🚀 What I'm Working On
 
-- 🤖 **RepairBot** — A chatbot built with Panel and OpenAI's GPT-3.5 Turbo to automate mobile repair appointments. It handles diagnostics, scheduling, and feedback collection with a friendly UX.  This chatbot is built using chatGPT and openAI, to use this chatbot you need to setup kernel and use your own API key from OpenAI.
+- 🤖 **RepairBot** — A chatbot built with Panel and OpenAI's GPT-3.5 Turbo to automate mobile repair appointments. It handles diagnostics, scheduling, and feedback collection with a friendly UX.  To use this chatbot you need to setup kernel and use your own API key from OpenAI.
 - 🧠 **Prompt Engineering Experiments** — Exploring how different system prompts and personas affect chatbot behavior and user experience.
 - 📊 **Interactive Dashboards** — Using Panel and Python to build clean, responsive interfaces for data-driven applications.
 
